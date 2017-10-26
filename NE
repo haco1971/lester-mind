@@ -2,15 +2,12 @@
 https://albaniaiptv.net/iptv/sport22102017.m3u
 http://31.220.2.50:25461//live/Free200/Free200/1122.ts
 
-http://31.220.2.50:25461/get.php?username=Free200&password=Free200&type=m3u
+http://31.220.2.50:25461/get.php?username=cobraFree200&password=CobraFree200&type=m3u
 
-http://xtream.hopto.me:9000/api.php?username=live:kingdiablo1981&password=shadysat
-http://xtream.hopto.me:9000/panel_api.php?username=live:kingdiablo1981&password=shadysat
 
 http://watch.eclipseiptv.com/panel_api.php?username=negm@tinoza.org&password=K2x99stpK0&type=m3u_plus&output=mpegts
 
 http://watch.eclipseiptv.com/panel_api.php?username=negm@tinoza.org&password=K2x99stpK0
-rtmp://xtream.hopto.me:9000/live/live:kingdiablo1981/shadysat/2315
 
 http://old-releases.ubuntu.com/releases/13.10/ubuntu-13.10-server-amd64.iso
 http://releases.ubuntu.com/14.04/ubuntu-14.04.5-server-amd64.iso
@@ -22,12 +19,8 @@ rtmp://fms.netpoint.com.br/live&file=tvr3.flv
 http://173.212.226.236:8888/get.php?username=PremiumIptv&password=albaniaiptv.net&type=m3u
 http://major1.ipfox.co:8080/get.php?username=winsor_BRKdS5&password=G4lOS1yD&type=m3u
 http://104.245.96.214:8000/live/alexandra/alexandra1/1488.ts
-sammaadsdsss
-http://xtream.hopto.me:9000/get.php?username=live:kingdiablo1981&password=shadysat&type=m3u
 http://iptvlivestream.com/m3u-player.php?player=vlc&src=http://link.softiptv.com:2500/get.php?username=mFCWHfu6mz&password=T3FEcdmzLt&type=m3u
 http://mag.magnum-ott.com:25461/live/romanian-v2/Z0JcQl2OGp/1501.ts
-http://xtream.hopto.me:9000/live/live:kingdiablo1981/shadysat/2061.ts
-http://xtream.hopto.me:9000/live/live:kingdiablo1981/shadysat/2316.m3u8
 http://178.132.5.36:25461/live/mFCWHfu6mz/T3FEcdmzLt/6616.m3u8
 https://pastebin.com/EQJvQxRR
 http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7935.m3u8
