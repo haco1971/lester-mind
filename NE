@@ -1,1 +1,278 @@
 
+https://albaniaiptv.net/iptv/sport22102017.m3u
+http://31.220.2.50:25461//live/Free200/Free200/1122.ts
+
+http://31.220.2.50:25461/get.php?username=Free200&password=Free200&type=m3u
+
+http://xtream.hopto.me:9000/api.php?username=live:kingdiablo1981&password=shadysat
+http://xtream.hopto.me:9000/panel_api.php?username=live:kingdiablo1981&password=shadysat
+
+http://watch.eclipseiptv.com/panel_api.php?username=negm@tinoza.org&password=K2x99stpK0&type=m3u_plus&output=mpegts
+
+http://watch.eclipseiptv.com/panel_api.php?username=negm@tinoza.org&password=K2x99stpK0
+rtmp://xtream.hopto.me:9000/live/live:kingdiablo1981/shadysat/2315
+
+http://old-releases.ubuntu.com/releases/13.10/ubuntu-13.10-server-amd64.iso
+http://releases.ubuntu.com/14.04/ubuntu-14.04.5-server-amd64.iso
+http://cdn.webtvplay.us:25461/live/ilyas/0d2d31e50b4346bfe94698505616e1ec6a8c28de/191.ts
+
+http://civeci.com/ADULT.txt
+http://player.bonus-tv.ru/playurl?url=http://213.32.7.211:8080/movie/nm91gFBeKa/6FHUMQynRW/48521.mp4
+rtmp://fms.netpoint.com.br/live&file=tvr3.flv
+http://173.212.226.236:8888/get.php?username=PremiumIptv&password=albaniaiptv.net&type=m3u
+http://major1.ipfox.co:8080/get.php?username=winsor_BRKdS5&password=G4lOS1yD&type=m3u
+http://104.245.96.214:8000/live/alexandra/alexandra1/1488.ts
+sammaadsdsss
+http://xtream.hopto.me:9000/get.php?username=live:kingdiablo1981&password=shadysat&type=m3u
+http://iptvlivestream.com/m3u-player.php?player=vlc&src=http://link.softiptv.com:2500/get.php?username=mFCWHfu6mz&password=T3FEcdmzLt&type=m3u
+http://mag.magnum-ott.com:25461/live/romanian-v2/Z0JcQl2OGp/1501.ts
+http://xtream.hopto.me:9000/live/live:kingdiablo1981/shadysat/2061.ts
+http://xtream.hopto.me:9000/live/live:kingdiablo1981/shadysat/2316.m3u8
+http://178.132.5.36:25461/live/mFCWHfu6mz/T3FEcdmzLt/6616.m3u8
+https://pastebin.com/EQJvQxRR
+http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/7935.m3u8
+
+http://dlink.expertshort.net:8000/get.php?username=tele4web11jh&password=appShfnTele2web&type=m3u
+espn
+http://144.217.68.106/live/PJaOA2PIh1DNQmxIao1vQA/1503530965/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+fashon
+http://btv-net.mediacdn.ru/TVB8/wfhd/playlist.m3u8
+sbt
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+band
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+reda brazil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+Filmes 24h
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+SporTV 2
+http://hls.fearfulale.xyz/s/ch0007984/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+SporTV 1
+http://hls.fearfulale.xyz/s/ch0005276/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+adsport
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+Futbol2
+http://83.174.198.141/Futbol2HD.m3u8
+Futbol3
+http://83.174.198.141/Futbol3HD.m3u8
+TELECINE ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?ISAQUE
+miamitv
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
+http://alkass-i.akamaihd.net/hls/live/205534/online/live_3s20.m3u8
+
+#EXTINF:-1,NL Salto 1 TV mms
+mms://195.169.148.57/A1
+#EXTINF:-1,NL Salto 2 TV mms
+mms://195.169.148.57/A2
+#EXTINF:-1, BeinSports 1
+rtmp://178.132.6.125/static/bein1
+#EXTINF:-1, BeinSports 2
+rtmp://178.132.6.125/static/bein2
+#EXTINF:-1, BeinSports 3
+rtmp://178.132.6.125/static/bein3
+#EXTINF:-1, BeinSports 4
+rtmp://178.132.6.125/static/bein4
+#EXTINF:-1, BeinSports 5
+rtmp://178.132.6.125/static/bein5
+#EXTINF:-1, BeinSports 6
+rtmp://178.132.6.125/static/bein6
+#EXTINF:-1, BeinSports 7
+rtmp://178.132.6.125/static/bein7
+#EXTINF:-1, BeinSports 8
+rtmp://178.132.6.125/static/bein8
+#EXTINF:-1, BeinSports 9
+rtmp://178.132.6.125/static/bein9
+#EXTINF:-1, BeinSports 10
+rtmp://178.132.6.125/static/bein10 
+
+#EXTINF:-1,CINEMA 1
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1,CINEMA 2
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+
+
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/994.m3u8
+
+
+raipremium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+raimovie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8?sd=10&rebase=on
+
+nashfutbol
+http://cdn.videosofsport1.pw/hls/J49dp9um3QxoL7RyWlHcKQ/1503777254/nashfutbol.m3u8
+
+
+http://live-trl101.abweb.com/liveabtrl101/ngrp:ab3.stream_bis/chunklist_b1096000.m3u8
+
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+
+
+
+https://pastebin.com/EQJvQxRR
+
+0.) http://link.softiptv.com:2500/get.php?username=mFCWHfu6mz&password=T3FEcdmzLt&type=m3u
+1.) http://audio1.video.ria.ru/voicestm
+2.) http://audio1.video.ria.ru/voicefre
+3.) http://46.239.218.131:1955/hls/rossia24.m3u8?streamType=live
+4.) http://home.magaz-in.ru:1234/udp/233.192.190.169:1234
+5.) http://audio1.video.ria.ru/voiceger
+6.) http://178.163.58.160:4022/udp/234.0.0.200:2000?mp4
+7.) http://178.163.58.160:4022//udp/234.0.0.200:2000
+8.) https://hammy8635.wixsite.com/hammy40links/forum/live-football-links
+9.) http://194.8.128.42:8080/udp/239.195.32.1:1234
+10.) http://audio1.video.ria.ru/voiceeng
+11.) http://audio1.video.ria.ru/voicepol
+12.) http://bit.ly/2ggdLfD?streamType=live
+13.) http://37.205.50.23:81/udp/239.54.5.62:1224
+14.) http://5.189.71.158:4022//udp/239.255.2.102:1234?mp4
+15.) rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq?streamType=live
+16.) http://194.28.88.3:8065/ch65?streamType=live
+17.) http://46.181.230.152:34040/udp/239.255.42.116:1234
+18.) http://plextreamiptv.net:8080/get.php?username=liverpool&password=liverpool&type=m3u
+19.) http://clientportal.link:8080/get.php?username=corrado&password=corrado2016&type=m3u
+20.) http://62.210.245.19:8000/get.php?username=2LS2XF417499s4&password=BSp84771748297&type=m3u
+21.) http://painel.tvdigitalhd.org:1935/get.php?username=canalricos548&password=canalricos548&type=m3u
+
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+
+
+
+
+22.) http://1pipo.ca:25461/get.php?username=1000&password=1000&type=m3u
+23.) http://167.250.168.119:9981/playlist
+24.) http://116.123.108.120:9981/playlist
+25.) http://14.203.26.114:9981/playlist
+
+#EXTINF:0,Sport Klub 1 HD
+http://smarttv.tvviet.tv/live12/SK1HD.m3u8
+#EXTINF:0,Sport Klub 2 HD
+http://smarttv.tvviet.tv/live12/SK2HD.m3u8
+#EXTINF:0,Sport Klub 3 HD
+http://smarttv.tvviet.tv/live12/SK3HD.m3u8
+#EXTINF:0,Sport Klub HD
+http://smarttv.tvviet.tv/live52/SKHD.m3u8
+#EXTINF:0,Sky Bundesliga
+http://smarttv.tvviet.tv/live32/skybundesliga1.m3u8
+#EXTINF:0,Sky Sport 1
+http://smarttv.tvviet.tv/live22/skysport1.m3u8
+#EXTINF:0,Sky Sport 2
+http://smarttv.tvviet.tv/live22/skysport2.m3u8
+#EXTINF:0,Eurosport
+http://smarttv.tvviet.tv/live22/Eurosport.m3u8
+#EXTINF:0,Eurosport 2
+http://smarttv.tvviet.tv/live52/Eurosport2.m3u8
+#EXTINF:0,Arena Sport
+http://smarttv.tvviet.tv/live22/ArenaSport.m3u8
+#EXTINF:0,Arena Sport 2
+http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8
+#EXTINF:0,Arena Sport 3
+http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8
+#EXTINF:0,Arena Sport 4
+http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8
+#EXTINF:0,Arena Sport 5
+http://smarttv.tvviet.tv/live52/Arenasport5.m3u8
+#EXTINF:0,Arena Sport 6
+http://smarttv.tvviet.tv/live32/ArenaSport6.m3u8
+#EXTINF:0,Arena Sport 1 HD
+http://smarttv.tvviet.tv/live42/ArenaSportHD1.m3u8
+#EXTINF:0,Arena Sport 2 HD
+http://smarttv.tvviet.tv/live42/ArenaSportHD2.m3u8
+#EXTINF:0,Arena Sport 3 HD
+http://smarttv.tvviet.tv/live42/ArenaSportHD3.m3u8
+#EXTINF:0,Arena Sport 4 HD
+http://smarttv.tvviet.tv/live42/ArenaSportHD4.m3u8
+#EXTINF:0,Arena Sport 5 HD
+http://smarttv.tvviet.tv/live42/ArenaSportHD5.m3u8
+
+#EXTINF:-1,
+Arena Sport 1
+rtmp://139.59.120.168:1935/live/arenasport1.stream
+[*]#EXTINF:-1,
+Arena Sport 2
+rtmp://139.59.120.168:1935/live/arenasport2.stream
+[*]#EXTINF:-1,
+Arena Sport 3
+rtmp://139.59.120.168:1935/live/arenasport3.stream
+[*]#EXTINF:-1,
+Arena Sport 4
+rtmp://139.59.120.168:1935/live/arenasport4.stream
+[*]#EXTINF:-1,
+Arena Sport 5
+rtmp://139.59.120.168:1935/live/arenasport5.stream
+
+
+#EXTINF:-1, BeinSports VIP
+http://27.254.63.132:1935/live/_definst_/bein1HD.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+#EXTINF:-1,FS1 USA
+http://31.220.2.50:25461//live/Free200/Free200/1122.ts
+#EXTINF:-1,FS2 USA
+http://31.220.2.50:25461//live/Free200/Free200/1123.ts
+#EXTINF:-1,NBCSN
+http://31.220.2.50:25461/live/Free200/Free200/1141.ts
+#EXTINF:-1,ESPN
+http://31.220.2.50:25461/live/Free200/Free200/1119.ts
+#EXTINF:-1,NAT GEO WILL FHD
+http://31.220.2.50:25461/live/Free200/Free200/1563.ts
+#EXTINF:-1,TSN 1
+http://31.220.2.50:25461/live/Free200/Free200/1581.ts
+#EXTINF:-1,TSN 2
+http://31.220.2.50:25461/live/Free200/Free200/1582.ts
+#EXTINF:-1,TSN 3
+http://31.220.2.50:25461/live/Free200/Free200/1583.ts
+#EXTINF:-1,TSN 4
+http://31.220.2.50:25461/live/Free200/Free200/1584.ts
+#EXTINF:-1,TSN 5
+http://31.220.2.50:25461/live/Free200/Free200/1585.ts    
+
+
+#EXTINF:-1,Jasmin TV HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Claro Adulto 18
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
+#EXTINF:-1,Miami TV
+http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,Babestation 1
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8
+#EXTINF:-1,Babestation 2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast//livestream_two1/playlist.m3u8
+#EXTINF:-1,Babestation 3
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
+#EXTINF:-1,Babestation 4
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8
+#EXTINF:-1,Babestation 5
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8
+#EXTINF:-1,Babestation 6
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
+#EXTINF:-1,Visit-X
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8      
+#EXTINF:-1,Sex Zone
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8  
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+#EXTINF:-1  Disney Channel
+http://tv.ec.cx:1935/redecanais-stream-disney/myStream/chunklist_w1034905224.m3u8
+#EXTINF:-1  Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w342611586.m3u8      
+
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+#EXTINF:-1,World Fashion
+http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
+#EXTINF:-1,World Fashion RU
+http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
+
+
+
+
+http://textuploader.com/d53tf/raw
+http://destek.korax.com.tr/webtv_U/folders.txt
+http://iptvlivestream.com/iptv-pastebin/
