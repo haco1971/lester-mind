@@ -263,6 +263,19 @@ http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
 #EXTINF:-1,World Fashion RU
 http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
 
+http://123.30.134.108:1935/live/nctlive/playlist.m3u8
+
+http://unisportslive4-f.akamaihd.net/i/gym_072515_1@50632/master.m3u8
+http://unisportslive3-f.akamaihd.net/i/fig_110115_1@50631/master.m3u8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+http://wowza2.mysoltv.com:1992/Latino_LA_SEXTA_ESP/index.m3u8
+http://4BA9EBDB07C05883:@t.kraslan.ru/playboy
+http://4BA9EBDB07C05883:@t.kraslan.ru/brazzers
+
+http://ebooks-gratuits.me/recherche/xxx%20M3u8/txt/1
+
+
 
 
 
