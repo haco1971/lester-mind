@@ -271,14 +271,117 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 http://wowza2.mysoltv.com:1992/Latino_LA_SEXTA_ESP/index.m3u8
 http://4BA9EBDB07C05883:@t.kraslan.ru/playboy
-http://4BA9EBDB07C05883:@t.kraslan.ru/brazzers
+http://customerarea.aruba.it:@t.kraslan.ru/brazzers
 
 http://ebooks-gratuits.me/recherche/xxx%20M3u8/txt/1
 
 
 
-
-
+eltholth1971:8570110@aruba.it
+80.211.154.228Eltholth1971
 http://textuploader.com/d53tf/raw
 http://destek.korax.com.tr/webtv_U/folders.txt
 http://iptvlivestream.com/iptv-pastebin/
+#EXTINF:-1,Passion XXX
+http://37.9.0.201:8888
+#EXTINF:-1,XXX
+http://37.9.0.201:8889
+#EXTINF:-1,dusk
+http://37.9.0.201:8890
+#EXTINF:-1,station
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1878679259.m3u8
+#EXTINF:-1,DREAMPORN
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1, Nuart
+http://93.91.113.8:9999/play/a0bh
+#EXTINF:-1, PlayBoy
+http://93.91.113.8:9999/play/a07t
+#EXTINF:-1, Brazzers
+http://93.91.113.8:9999/play/a07s
+#EXTINF:-1, Russian Nights
+http://93.91.113.8:9999/play/a07r
+#EXTINF:0,SUPERONE+18
+http://31.223.238.10:8001/1:0:1:409:2:1:E0831B3:0:0:0:
+#EXTINF: 0, Hustler HD
+http://178.252.88.99:34040/udp/233.166.172.253:1234
+#EXTINF: 0, O-La-La
+http://178.252.88.99:34040/udp/233.166.172.157:1234
+#EXTINF:-1,Ct Sport HD
+http://5.63.149.252:5000/live/299/299.m3u8
+#EXTINF:-1,Axn
+http://69.39.239.166:5000/live/205/205.m3u8
+#EXTINF:-1,Axn White
+http://69.39.239.166:5000/live/281/281.m3u8
+#EXTINF:-1,Axn Black
+http://69.39.239.166:5000/live/282/282.m3u8
+#EXTINF:-1,cin+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,Claro Adulto 18
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
+#EXTINF:-1,Sex Zone
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
+
+
+http://144.217.181.197:25461/live/demo10usdlibre/iscar96eqveJXEn10usd/1271.ts
+http://cdnlive1.win/live/sHorSuVp7Q/ZJ64uMuAlw/303.ts
+http://cdnlive1.win/live/xXSmoy8ImU/wka40FBLqT/38.ts
+http://cdnlive1.win/live/0AVak181VL/jX9fiMEV5b/38.ts
+
+http://lucky.lts2.net:24000/movie/ho6aZ0T6AR/Odn2f0DotH/29964.mkv
+
+
+#EXTM3U
+#EXTINF:1,ss1hd
+http://185.93.1.41/ss1hd/mpegts
+#EXTINF:1,ss2hd
+http://185.93.1.41/ss2hd/mpegts
+#EXTINF:1,ss3hd
+http://185.93.1.41/ss3hd/mpegts
+#EXTINF:1,ss4hd
+http://185.93.1.41/ss4hd/mpegts
+#EXTINF:1,ss5hd
+http://185.93.1.41/ss5hd/mpegts
+#EXTINF:1,ss6hd
+http://185.93.1.41/ss6hd/mpegts
+#EXTINF:1,ss1sd
+http://185.93.1.41/ss1sd/mpegts
+#EXTINF:1,ss2sd
+http://185.93.1.41/ss2sd/mpegts
+#EXTINF:1,ss3sd
+http://185.93.1.41/ss3sd/mpegts
+#EXTINF:1,ss4sd1
+http://185.93.1.41/ss4sd/mpegts
+#EXTINF:1,sk1
+http://185.93.1.41/sk1/mpegts
+#EXTINF:1,sk2
+http://185.93.1.41/sk2/mpegts
+#EXTINF:1,sk3
+http://185.93.1.41/sk3/mpegts
+#EXTINF:1,sk4
+http://185.93.1.41/sk4/mpegts
+#EXTINF:1,sk5
+http://185.93.1.41/sk5/mpegts
+#EXTINF:1,/s6
+http://185.93.1.41/sk6/mpegts
+#EXTINF:1,Arena1
+http://185.93.1.41/arena1/mpegts
+#EXTINF:1,Arena2
+http://185.93.1.41/arena2/mpegts
+#EXTINF:1,Arena3
+http://185.93.1.41/arena3/mpegts
+#EXTINF:1,Arena4
+http://185.93.1.41/arena4/mpegts
+#EXTINF:1,Arena5
+http://185.93.1.41/arena5/mpegts
+#EXTINF:1,Eurosport1
+http://185.93.1.41/eurosport1/mpegts
+#EXTINF:1,Eurosport2
+http://185.93.1.41/eurosport2/mpegts
+#EXTINF:1,BeinSport1
+http://185.93.1.41/sportspecial1/mpegts
+#EXTINF:1,BeinSport2
+http://185.93.1.41/sportspecial2/mpegts
+#EXTINF:1,BeinSport3
+http://185.93.1.41/sportspecial3/mpegts
+#EXTINF:1,BeinSport4
+http://185.93.1.41/sportspecial4/mpegts
