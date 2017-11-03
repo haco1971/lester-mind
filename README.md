@@ -19,4 +19,14 @@ CCTV5
 http://183.252.176.41//PLTV/88888888/224/3221225925/index.m3u8
 CCTV5+
 http://183.252.176.41//PLTV/88888888/224/3221225915/index.m3u8
+Deportv-ar
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8
+Match-ru
+http://188.130.241.126/tv4/playlist.m3u8
+football1_hd
+http://213.183.53.145:8080/football1_hd/index.m3u8
+football2_hd
+http://213.183.53.145:8080/football2_hd/index.m3u8
+
+
 
