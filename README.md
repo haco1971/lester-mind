@@ -27,6 +27,19 @@ football1_hd
 http://213.183.53.145:8080/football1_hd/index.m3u8
 football2_hd
 http://213.183.53.145:8080/football2_hd/index.m3u8
+football3_hd
+http://213.183.53.145:8080/football3_hd/index.m3u8
+Football-ua
+http://213.183.53.145:8080/football1_HDUA/index.m3u8
+football2_HDUA
+http://213.183.53.145:8080/football2_HDUA/index.m3u8
 
+http://91.205.173.193/hls/sports/ss1/stream.m3u8
+
+http://91.205.173.193/hls/sports/ss2/stream.m3u8
+
+http://91.205.173.193/hls/sports/ss3/stream.m3u8
+
+http://91.205.173.193/hls/sports/ss4/stream.m3u8
 
 
