@@ -94,3 +94,56 @@ http://mobiben-apps.com/bein/bein1/bein9.m3u8
 http://mobiben-apps.com/bein/bein1/bein10.m3u8
 #EXTINF:-1,bein sport 11
 http://mobiben-apps.com/bein/bein1/bein11.m3u8
+#EXTINF:-1,SPORT 1
+rtmp://192.99.18.85:1935/live/sport1
+#EXTINF:-1,SPORT 2
+rtmp://192.99.18.85:1935/live/sport2
+#EXTINF:-1,SPORT 1
+rtmp://192.99.18.85/live/sport1
+#EXTINF:-1,SPORT 2
+rtsp://192.99.18.85/live/sport2
+#EXTINF:-1,SPORT 5+
+rtmp://192.99.18.85:1935/live/food
+#EXTINF:-1,SPORT 5+
+rtsp://192.99.18.85:1935/live/food
+#EXTINF:-1,SPORT 5+
+rtmp://192.99.18.85/live/food
+#EXTINF:-1,SPORT 5 Live
+rtmp://192.99.18.85:1935/live/sport5live
+#EXTINF:-1,SPORT 5 Live
+rtsp://192.99.18.85:1935/live/sport5live
+#EXTINF:-1,SPORT 5 Live
+rtmp://192.99.18.85/live/sport5live
+#EXTINF:-1,SPORT One
+rtmp://192.99.18.85:1935/live/sportone
+#EXTINF:-1,SPORT One
+rtsp://192.99.18.85:1935/live/sportone
+#EXTINF:-1,SPORT One
+rtmp://192.99.18.85/live/sportone
+#EXTINF:-1,Biaban Sport
+rtmp://88.198.21.7:1935/live/shahin2
+#EXTINF:-1,Biaban Sport
+rtmp://88.198.21.7/live/shahin2
+#EXTINF:-1,Todo Deportes
+rtsp://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3
+#EXTINF:-1,Todo Deportes
+rtsp://190.92.0.43/securelive/tdtv85jd5EKL3xWq3
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?VIPIPTV
+#EXTINF:-1,AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+#EXTINF:-1,AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+
+
+
+
+
+
+
+
+
+
+
+
+
