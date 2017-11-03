@@ -11,4 +11,12 @@ fr/RTS2
 http://live2.artv.watch/rts2/tracks-v1a1/index.m3u8
 /fr/AB1
 http://live2.artv.watch/ab1/tracks-v1a1/index.m3u8
+Skybundesliga1
+rtmp://139.59.120.168:1935/live/skybundesliga1.stream
+teleclub
+rtmp://139.59.120.168:1935/live/teleclub1sw.stream
+CCTV5
+http://183.252.176.41//PLTV/88888888/224/3221225925/index.m3u8
+CCTV5+
+http://183.252.176.41//PLTV/88888888/224/3221225915/index.m3u8
 
