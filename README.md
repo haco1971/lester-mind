@@ -256,6 +256,132 @@ http://w02.duoplay.media/061/myStream/playlist.m3u8
 http://w03.duoplay.media/076/myStream/playlist.m3u8
 
 
+#EXTM3U
+#EXTINF:-1,Premiere Clubes
+http://w04.duoplay.media/105/myStream/playlist.m3u8
+#EXTINF:-1,Premiere 2
+http://w04.duoplay.media/106/myStream/playlist.m3u8
+#EXTINF:-1,Premiere 3
+http://w04.duoplay.media/108/myStream/playlist.m3u8
+#EXTINF:-1,Premiere 4
+http://w04.duoplay.media/107/myStream/playlist.m3u8
+#EXTINF:-1,Premiere 5
+http://w02.duoplay.media/044/myStream/playlist.m3u8
+#EXTINF:-1,Premiere 6
+http://w02.duoplay.media/042/myStream/playlist.m3u8
+#EXTINF:-1,Premiere 7
+http://w02.duoplay.media/043/myStream/playlist.m3u8
+#EXTINF:-1,Premiere 8
+http://w02.duoplay.media/041/myStream/playlist.m3u8
+#EXTINF:-1,ESPN Brasil
+http://w02.duoplay.media/035/myStream/playlist.m3u8
+#EXTINF:-1,ESPN
+http://w01.duoplay.xyz/013/myStream/playlist.m3u8
+#EXTINF:-1,ESPN+
+http://w01.duoplay.xyz/006/myStream/playlist.m3u8
+#EXTINF:-1,Off
+http://w01.duoplay.xyz/015/myStream/playlist.m3u8
+#EXTINF:-1,Band Sports
+http://w01.duoplay.xyz/010/myStream/playlist.m3u8
+#EXTINF:-1,Combate
+http://w03.duoplay.media/074/myStream/playlist.m3u8
+#EXTINF:-1,SporTV
+http://w02.duoplay.media/057/myStream/playlist.m3u8
+#EXTINF:-1,SporTV 2
+http://w01.duoplay.xyz/007/myStream/playlist.m3u8
+#EXTINF:-1,SporTV 3
+http://w01.duoplay.xyz/022/myStream/playlist.m3u8
+#EXTINF:-1,Fox Sports
+http://w02.duoplay.media/036/myStream/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://w01.duoplay.xyz/028/myStream/playlist.m3u8
+#EXTINF:-1,Baby TV
+http://w01.duoplay.media/002/myStream/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://w01.duoplay.media/011/myStream/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://w03.duoplay.media/077/myStream/playlist.m3u8
+#EXTINF:-1,Nick Jr.
+http://w03.duoplay.media/096/myStream/playlist.m3u8
+#EXTINF:-1,Gloob
+http://w03.duoplay.media/089/myStream/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://w01.duoplay.media/027/myStream/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://w03.duoplay.media/086/myStream/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://w02.duoplay.media/061/myStream/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://w03.duoplay.media/076/myStream/playlist.m3u8
+#EXTINF:-1,HBO
+http://w02.duoplay.media/053/myStream/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://w02.duoplay.media/047/myStream/playlist.m3u8
+#EXTINF:-1,HBO Plus
+http://w02.duoplay.media/037/myStream/playlist.m3u8
+#EXTINF:-1,HBO Family
+http://w03.duoplay.media/088/myStream/playlist.m3u8
+#EXTINF:-1,Max
+http://w03.duoplay.media/095/myStream/playlist.m3u8
+#EXTINF:-1,Globo SP
+http://w02.duoplay.media/060/myStream/playlist.m3u8
+#EXTINF:-1,Globo RJ
+http://w01.duoplay.media/021/myStream/playlist.m3u8
+#EXTINF:-1,Globo PR
+http://w02.duoplay.media/062/myStream/playlist.m3u8
+#EXTINF:-1,Max Prime
+http://w03.duoplay.media/092/myStream/playlist.m3u8
+#EXTINF:-1,Max Up
+http://w02.duoplay.media/045/myStream/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://w01.duoplay.media/018/myStream/playlist.m3u8
+#EXTINF:-1,Telecine Action
+http://w01.duoplay.media/004/myStream/playlist.m3u8
+#EXTINF:-1,Telecine Premium
+http://w01.duoplay.media/005/myStream/playlist.m3u8
+#EXTINF:-1,Telecine Fun
+http://w02.duoplay.media/051/myStream/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://w01.duoplay.media/001/myStream/playlist.m3u8
+#EXTINF:-1,Telecine Cult
+http://w02.duoplay.media/055/myStream/playlist.m3u8
+#EXTINF:-1,AXN
+http://w01.duoplay.media/016/myStream/playlist.m3u8
+#EXTINF:-1,AMC
+http://w03.duoplay.media/071/myStream/playlist.m3u8
+#EXTINF:-1,FX
+http://w01.duoplay.media/026/myStream/playlist.m3u8
+#EXTINF:-1,Megapix
+http://w02.duoplay.media/033/myStream/playlist.m3u8
+#EXTINF:-1,Space
+http://w01.duoplay.media/029/myStream/playlist.m3u8
+#EXTINF:-1,TBS
+http://w02.duoplay.media/038/myStream/playlist.m3u8
+#EXTINF:-1,TCM
+http://w02.duoplay.media/039/myStream/playlist.m3u8
+#EXTINF:-1,Syfy
+http://w03.duoplay.media/093/myStream/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://w02.duoplay.media/064/myStream/playlist.m3u8
+#EXTINF:-1,Sony
+http://w01.duoplay.media/031/myStream/playlist.m3u8
+#EXTINF:-1,TNT Séries
+http://w01.duoplay.media/019/myStream/playlist.m3u8
+#EXTINF:-1,TNT
+http://w01.duoplay.media/023/myStream/playlist.m3u8
+#EXTINF:-1,Universal
+http://w01.duoplay.media/003/myStream/playlist.m3u8
+#EXTINF:-1,Warner
+http://w03.duoplay.media/080/myStream/playlist.m3u8
+#EXTINF:-1,Playboy TV
+http://w02.duoplay.media/052/myStream/playlist.m3u8
+#EXTINF:-1,Sex Prive
+http://w02.duoplay.media/049/myStream/playlist.m3u8
+#EXTINF:-1,Sexy Hot
+http://w02.duoplay.media/050/myStream/playlist.m3u8
+#EXTINF:-1,Sextreme
+http://w03.duoplay.media/094/myStream/playlist.m3u8
+
 
 
 
