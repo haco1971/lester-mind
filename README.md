@@ -135,7 +135,125 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
 #EXTINF:-1,AD Sports 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 
-
+#EXTINF:0,Hbo
+http://w02.duoplay.media/053/myStream/playlist.m3u8
+ 
+#EXTINF:0,Hbo 2
+http://w02.duoplay.media/047/myStream/playlist.m3u8
+ 
+#EXTINF:0,Hbo Family
+http://w03.duoplay.media/088/myStream/playlist.m3u8
+ 
+#EXTINF:0,Hbo Plus
+http://w02.duoplay.media/037/myStream/playlist.m3u8
+ 
+#EXTINF:0,Max
+http://w03.duoplay.media/095/myStream/playlist.m3u8
+ 
+#EXTINF:0,Max Prime
+http://w03.duoplay.media/092/myStream/playlist.m3u8
+ 
+#EXTINF:0,Cinemax
+http://w01.duoplay.media/018/myStream/playlist.m3u
+ 
+#EXTINF:0,Telecine Action
+http://w01.duoplay.media/004/myStream/playlist.m3u8
+ 
+#EXTINF:0,Telecine Premuim
+http://w01.duoplay.media/005/myStream/playlist.m3u8
+ 
+#EXTINF:0,Telecine Fun
+http://w02.duoplay.media/051/myStream/playlist.m3u8
+ 
+#EXTINF:0,Telecine Pipoca
+http://w02.duoplay.media/051/myStream/playlist.m3u8
+ 
+#EXTINF:0,Telecine Cult
+http://w02.duoplay.media/055/myStream/playlist.m3u8
+ 
+#EXTINF:0,Axn
+http://w01.duoplay.media/016/myStream/playlist.m3u8
+ 
+#EXTINF:0,Amc
+http://w03.duoplay.media/071/myStream/playlist.m3u8
+ 
+#EXTINF:0,Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+ 
+#EXTINF:0,Fx
+http://w01.duoplay.media/026/myStream/playlist.m3u8
+ 
+#EXTINF:0,Megapix
+http://w02.duoplay.media/033/myStream/playlist.m3u8
+ 
+#EXTINF:0,Space
+http://w01.duoplay.media/029/myStream/playlist.m3u8
+ 
+#EXTINF:0,Tbs
+http://w02.duoplay.media/038/myStream/playlist.m3u8
+ 
+#EXTINF:0,Tcm
+http://w02.duoplay.media/039/myStream/playlist.m3u8
+ 
+#EXTINF:0,Syfy
+http://w03.duoplay.media/093/myStream/playlist.m3u8
+ 
+#EXTINF:0,Studio Universal
+http://w02.duoplay.media/064/myStream/playlist.m3u8
+ 
+#EXTINF:0,Tnt Series
+http://w01.duoplay.media/019/myStream/playlist.m3u8
+ 
+#EXTINF:0,Universal
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist.m3u8
+ 
+#EXTINF:0,Universal HD
+http://w01.duoplay.media/003/myStream/playlist.m3u8
+ 
+#EXTINF:0,Warner
+http://w03.duoplay.media/080/myStream/playlist.m3u8
+ 
+#EXTINF:0,Retro Cartoon
+http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8
+ 
+#EXTINF:0,Baby TV
+http://w01.duoplay.media/002/myStream/playlist.m3u8
+ 
+#EXTINF:0,Tooncast
+http://w01.duoplay.media/011/myStream/playlist.m3u8
+ 
+#EXTINF:0,Nickeloadeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8
+ 
+#EXTINF:0,Nickeloadeon
+http://w03.duoplay.media/077/myStream/playlist.m3u8
+ 
+#EXTINF:0,Nick JR
+http://w03.duoplay.media/096/myStream/playlist.m3u8
+ 
+#EXTINF:0,Gloob
+http://w03.duoplay.media/089/myStream/playlist.m3u8
+ 
+#EXTINF:0,Cartoon Network sd
+http://95.141.35.104:8081/look/cartoon8/playlist.m3u8
+ 
+#EXTINF:0,Cartoon Netowork
+http://w01.duoplay.media/027/myStream/playlist.m3u8
+ 
+#EXTINF:0,Disney XD Sd
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8
+ 
+#EXTINF:0,Disney XD
+http://w03.duoplay.media/086/myStream/playlist.m3u8
+ 
+#EXTINF:0,Discovery K!ds Sd
+http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8
+ 
+#EXTINF:0,Discovery K!ds
+http://w02.duoplay.media/061/myStream/playlist.m3u8
+ 
+#EXTINF:0,Disney Channel +
+http://w03.duoplay.media/076/myStream/playlist.m3u8
 
 
 
