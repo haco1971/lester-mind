@@ -594,7 +594,27 @@ http://ok1.se:8000/live/Scott22/Scott22/6085.ts
 #EXTINF:0 , English: CANDY
 http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
 
-
+http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
+#EXTINF:-1,Ночной клуб
+http://5.2.45.26:81/udp/239.254.2.37:1234
+#EXTINF:-1,Candy
+http://5.2.45.26:81/udp/239.254.2.225:1234
+#EXTINF:-1,Frenchlover TV
+http://5.2.45.26:81/udp/239.254.2.50:1234
+#EXTINF:-1,Olala
+http://5.2.45.26:81/udp/239.254.2.90:1234
+#EXTINF:-1,Playboy TV UK
+http://5.2.45.26:81/udp/239.254.2.242:1234
+#EXTINF:-1,Русская ночь
+http://5.2.45.26:81/udp/239.254.2.107:1234
+#EXTINF:-1,Brazzers TV Europe
+http://5.2.45.26:81/udp/239.254.2.243:1234
+#EXTINF:-1,Private
+http://5.2.45.26:81/udp/239.254.2.231:1234
+#EXTINF:-1,Hustler HD
+http://5.2.45.26:81/udp/239.254.2.232:1234
+#EXTINF:-1,Redlight TV HD
+http://5.2.45.26:81/udp/239.254.3.93:1234
 
 
 
