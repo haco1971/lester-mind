@@ -591,7 +591,8 @@ http://ok1.se:8000/live/Scott22/Scott22/6084.ts
 http://ok1.se:8000/live/Scott22/Scott22/6085.ts
 
 
-
+#EXTINF:0 , English: CANDY
+http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
 
 
 
