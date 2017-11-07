@@ -381,7 +381,214 @@ http://w02.duoplay.media/049/myStream/playlist.m3u8
 http://w02.duoplay.media/050/myStream/playlist.m3u8
 #EXTINF:-1,Sextreme
 http://w03.duoplay.media/094/myStream/playlist.m3u8
+#EXTM3U
+#extinf:-1 tvg-logo="https://s23.postimg.org/u7ihqr8kr/download.png"group-title="Filmes",TEST
+http://diamond.cybergroup.top:15800/live/ptxasvnx/8x3yIi9Q5l/13894.ts
+#EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", "ערוץ החדשות"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-logo="https://s28.postimg.org/ybw6t6vq5/D2_F72_F70-84_CF-4_AA7-_AE53-_E213042_DE1_E3.jpg", ערוץ 10
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s28.postimg.org/ybw6t6vq5/D2_F72_F70-84_CF-4_AA7-_AE53-_E213042_DE1_E3.jpg",channel 10
+http://192.99.18.85:1935/live/ channel10/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”https://s29.postimg.org/6wjioj90n/1200px-_Kan11svg.svg.png",channel11
+http://192.99.18.85:1935/live/channel11/chunklist.m3u8
+#EXTINF:-1, כאן 11
+rtmp://ipbc-s.vidnt.com/ipbc_IPBCchannel11LVMRepeat/IPBCchannel11LVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+#EXTINF:-1, קשת
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+#EXTINF:-1, ערוץ 2
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
+#EXTINF:-1, ערוץ 2
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:-1, ערוץ 2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1,channel22
+http://192.99.18.85:1935/live/channel22/chunklist.m3u8
 
+#EXTINF:-1, ערוץ המורשת
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1, ערוץ המוזיקה
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1, ערוץ ההידברות
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1, ערוץ הקניות
+rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+#EXTINF:-1, כאן 33
+rtmp://ipbc-s.vidnt.com/ipbc_IPBCmakantvLVMRepeat/IPBCmakantvLVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:-1, ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1, מאיר TV
+http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
+#EXTINF:-1, ערוץ הקבלה
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:-1, ספורט 5 פלוס 
+http://192.99.18.85:1935/live/food/chunklist.m3u8
+#EXTINF:-1, ספורט 1
+http://192.99.18.85:1935/live/sport1/playlist.m3u8
+#EXTINF:-1, ספורט 1
+rtmp://192.99.18.85:1935/live/sport1
+#EXTINF:-1, ספורט 1 
+rtmp://192.99.18.85/live/sport1
+#EXTINF:-1, ספורט 2 
+rtmp://192.99.18.85:1935/live/sport2
+#EXTINF:-1, ספורט ONE
+http://192.99.18.85:1935/live/sportone/ chunklist_w1079808882.m3u8
+#EXTINF:-1, ספורט ONE
+http://192.99.18.85:1935/live/sportone/playlist.m3u8
+#EXTINF:-1,SPORT 5 live
+http://192.99.18.85:1935/live/sport5live/chunklist.m3u8
+#EXTINF:-1, ספורט 4 
+http://51.15.43.134:10101/hl/143_.m3u8
+
+#EXTINF:-1,yes 1
+http://192.99.18.85:1935/live/disney/chunklist.m3u8
+#EXTINF:-1,Yes 1
+http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
+#EXTINF:-1,Yes 2
+http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
+#EXTINF:-1,yes 4
+http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
+
+#EXTINF:-1,Viva
+http://192.99.18.85:1935/live/viva/chunklist.m3u8
+#EXTINF:-1,vivaplus
+http://192.99.18.85:1935/live/vivaplus/ chunklist.m3u8
+
+#EXTINF:-1,BEIN SPORTS-11
+http://sstvb1.vdmscdn.com/beinsport-11-sd/index.m3u8
+#EXTINF:-1,BEIN SPORTS-12
+http://sstvb1.vdmscdn.com/beinsport-12-sd/index.m3u8
+#EXTINF:-1,BEIN SPORTS-13
+http://sstvb1.vdmscdn.com/beinsport-13-sd/index.m3u8
+
+
+
+#EXTINF:-1,WebCamera
+http://212.199.69.238:80/mjpg/video.mjpg
+#EXTINF:-1,Israel CAM 1 Muro das Lamentações
+rtmp://il34.cast-tv.com:1935/23595_LIVE_Kotel_Live/_definst_/23595_LIVE_Kotel_Live
+
+#EXTINF:-1,כאן - ים תיכוני
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCOrientalLA
+#EXTINF:-1,Fox HD
+http://31.28.54.250:4022/udp/232.0.1.35:1234
+#EXTINF:-1,Nickelodeon
+http://31.28.54.250:4022/udp/232.0.1.39:1234
+#EXTINF:-1,P2_WWE NETWORK 1080
+http://iptv.new4tec.com:8080/live/carlos/carlos/25348.ts
+#EXTINF:-1,bein sport 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein sport 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein sport 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein sport 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein sport 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein sport 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein sport 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein sport 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein sport 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,CHANNEL 10 (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6059.ts
+#EXTINF:-1,CHANNEL 10 (TIMESHIFT -8HRS) (IL)
+http://ok1.se:8000/live/Scott22/Scott22/8335.ts
+#EXTINF:-1,CHANNEL 2 (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6060.ts
+#EXTINF:-1,CHANNEL 2 (TIMESHIFT -8HRS) (IL)
+http://ok1.se:8000/live/Scott22/Scott22/8334.ts
+#EXTINF:-1,CHANNEL 20 (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6061.ts
+#EXTINF:-1,CHANNEL 20 (TIMESHIFT -8HRS) (IL)
+http://ok1.se:8000/live/Scott22/Scott22/8333.ts
+#EXTINF:-1,CHANNEL 24 (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6062.ts
+#EXTINF:-1,CHANNEL 24 (TIMESHIFT -8HRS) (IL)
+http://ok1.se:8000/live/Scott22/Scott22/8331.ts
+#EXTINF:-1,CHANNEL 9 (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6063.ts
+#EXTINF:-1,CHANNEL 9 (TIMESHIFT -8HRS) (IL)
+http://ok1.se:8000/live/Scott22/Scott22/8332.ts
+#EXTINF:-1,YES 1 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6086.ts
+#EXTINF:-1,YES 2 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6087.ts
+#EXTINF:-1,YES 3 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6088.ts
+#EXTINF:-1,YES 4 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6089.ts
+#EXTINF:-1,YES 5 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6090.ts
+#EXTINF:-1,YES ACTION HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6091.ts
+#EXTINF:-1,YES CINEMA HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6092.ts
+#EXTINF:-1,YES COMEDY HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6093.ts
+#EXTINF:-1,YES DOCU HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6094.ts
+#EXTINF:-1,YES DRAMA HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6095.ts
+#EXTINF:-1,YES OH HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6096.ts
+#EXTINF:-1,YES SPORT1 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6097.ts
+#EXTINF:-1,YES SPORT2 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6098.ts
+#EXTINF:-1,FOX SPORTS HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6066.ts
+#EXTINF:-1,Sport 5 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6083.ts
+#EXTINF:-1,Sport 5 Live HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6082.ts
+#EXTINF:-1,HOME PLUS (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6067.ts
+#EXTINF:-1,HOP IL (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6068.ts
+#EXTINF:-1,HOT ACTION HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6069.ts
+#EXTINF:-1,HOT DRAMA HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6070.ts
+#EXTINF:-1,HOT Entertainment (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6071.ts
+#EXTINF:-1,HOT FUN HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6072.ts
+#EXTINF:-1,HOT GOLD HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6073.ts
+#EXTINF:-1,HOT PLUS HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6074.ts
+#EXTINF:-1,HOT ZONE HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6075.ts
+#EXTINF:-1,HOT3 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6076.ts
+#EXTINF:-1,ARUTZ HAYALDEMIM (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6057.ts
+#EXTINF:-1,BABY TV (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6058.ts
+#EXTINF:-1,COMEDY CENTRAL HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6064.ts
+#EXTINF:-1,FOOD CHANNEL (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6065.ts
+#EXTINF:-1,IBA Channel 1 HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6077.ts
+#EXTINF:-1,National Geo Wild (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6078.ts
+#EXTINF:-1,Nick Jr (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6079.ts
+#EXTINF:-1,Nickelodeon (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6080.ts
+#EXTINF:-1,ONE HD (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6081.ts
+#EXTINF:-1,Travel Channel (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6084.ts
+#EXTINF:-1,VIVA (IL)
+http://ok1.se:8000/live/Scott22/Scott22/6085.ts
 
 
 
