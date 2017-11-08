@@ -616,6 +616,18 @@ http://5.2.45.26:81/udp/239.254.2.232:1234
 #EXTINF:-1,Redlight TV HD
 http://5.2.45.26:81/udp/239.254.3.93:1234
 
+http://www.mytvonline.org/fra/bein1.m3u8
+
+http://62.210.82.102:8000/live/1304169sa0W90y/326bID10042439/660.m3u8
+SPORTS TV1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+SPORTS TV2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+
+Setanta
+http://195.158.29.129/live1_360/live.stream_360p.m3u8
+
+
 
 
 
