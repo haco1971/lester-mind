@@ -627,7 +627,39 @@ http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
 Setanta
 http://195.158.29.129/live1_360/live.stream_360p.m3u8
 
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
+#EXTINF:0,Channel 1
+http://109.236.91.150:8080/HBO/index.m3u8
+#EXTINF:0,Channel 2
+http://109.236.91.150:8080/HBO2/index.m3u8
+#EXTINF:0,Channel 3
+http://109.236.91.150:8080/Srb:Hbo3HD/mpegts
+#EXTINF:0,Channel 4
+http://109.236.91.150:8080/Srb:Cinemax2HD/mpegts
+#EXTINF:0,Channel 5
+http://109.236.91.150:8080/Srb:Cinemax1HD/mpegts
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Beauty painting (2017)
+http://kino-v.online/kino/Kartina_krasoty.1080.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Private lessons (1981)
+http://kino-v.online/kino/Chastnye_uroki.1080.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The niece of the lady colonel
+http://77.120.104.206/kino/Plemyannicy_gospozhi_polkovnicy.hd.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Account (1973)
+http://77.120.104.206/kino/Schet.hd.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Baby in Rolls-Royce (1975)
+http://77.120.104.206/kino/Detka_v_Rolls_Royse.hd.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Six Swedes in the Alps (1983)
+http://77.120.104.206/kino/Shest_shvedok_v_Alpah.hd.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Six Swedes in Ibiza (1981)
+http://77.120.104.206/kino/Shest_shvedok_na_Ibice.hd.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Six Swedes in a boarding house (1979)
+http://77.120.104.206/kino/Shest_shvedok_v_pansionate.hd.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turkish Delights (1973)
+http://77.120.104.206/kino/Tureckie_naslazhdeniya.hd.mp4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The naked puppets in the underground (1975)
+http://77.120.104.81/kino/Golye_marionetki_v_podpole.hd.mp4/index.m3u8
 
+http://163.172.180.208:8081/tv/match-fut-3/playlist.m3u8
 
