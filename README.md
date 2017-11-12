@@ -662,4 +662,14 @@ http://77.120.104.206/kino/Tureckie_naslazhdeniya.hd.mp4/index.m3u8
 http://77.120.104.81/kino/Golye_marionetki_v_podpole.hd.mp4/index.m3u8
 
 http://163.172.180.208:8081/tv/match-fut-3/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="",SEX PRIVE SD
+http://192.99.45.90:8080/live/cliente11/cliente11/606.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="",SEX ZONE SD
+http://192.99.45.90:8080/live/cliente11/cliente11/605.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="",SEXTREME SD
+http://192.99.45.90:8080/live/cliente11/cliente11/607.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="",SEXY HOT SD
+http://192.99.45.90:8080/live/cliente11/cliente11/608.m3u8
