@@ -62,3 +62,16 @@ http://klive-a.akamaihd.net:80/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/l
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1,NBA TV
 http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+
+
+http://www.appcaramel.com/TVUltra/tv-load.php
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV+
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream?
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
