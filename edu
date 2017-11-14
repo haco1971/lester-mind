@@ -75,3 +75,40 @@ http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 2
 http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+
+NBA
+rtmp://213.152.180.151:17247/sstream/0f5bZcQBIw.stream
+rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream
+NFL
+rtmp://213.152.180.151:17247/sstream/0tup2CkRWf.stream
+rtmp://213.152.180.151:17247/sstream/04hVOF7oax.stream
+rtmp://213.152.180.151:17247/sstream/0ZKRO5BudJ.stream
+rtmp://213.152.180.151:17247/sstream/vRxeLE9PLv.stream
+USA
+rtmp://213.152.180.151:17247/sstream/0ULjqKLu6t.stream
+
+http://85.132.71.6/turk/cbc_sport/index.m3u8
+#EXTINF:-1 group-title="Internacional" ,Czech: CZ-SPORT1
+http://5.63.149.252:5000/live/299/299.m3u8
+rtmp://stream.visit-x.tv:1935/vxtv/live_720p
+http://live-trl01.abweb.com/livetrl01/ngrp:rtl9.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="Internacional" ,English: Rai 5
+http:/b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
+#EXTINF:-1 group-title="Internacional" ,Italian: Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-b.m3u8
+#EXTINF:-1 group-title="Internacional" ,English: Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="Internacional" ,Italian: Rai Premier HD - IT
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
+#EXTINF:-1 group-title="Internacional" ,English: Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Internacional" ,English: Sex zone
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8
+#EXTINF:-1 group-title="Internacional" ,English: Star Sports HD 1 Live Cricket Channel By Anuj Hacker
+http://176.9.17.204:1935/criclive/rockcric.stream/playlist.m3u8
+
+
+
+
+
+
