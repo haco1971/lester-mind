@@ -4,3 +4,61 @@ root@kali:~/Desktop# medusa -u root -P '/root/Desktop/500-worst-passwords.txt' -
 wget http://zeldor.biz/other/bruteforce/passlist.txt
 wget https://downloads.skullsecurity.org/passwords/500-worst-passwords.txt.bz2
 
+#EXTINF:0,Ð®Ð½Ñ‹Ðµ Ð½Ð°ÐµÐ·Ð´Ð½Ð¸Ñ†Ñ‹
+http://pl.vbfcdn.net/videos/190817_16/190817_16_720p.m3u8
+#EXTINF:0,Ð‘ÐµÐ»Ð¾ÑÐ½ÐµÐ¶ÐºÐ° Ð¸ Ð¡ÐµÐ¼ÑŒ Ð“Ð½Ð¾Ð¼Ð¾Ð²
+http://pl.vbfcdn.net/videos/150917_06/150917_06_720p.m3u8
+#EXTINF:0,Ð¡ÐµÐºÑ Ñ‚ÐµÑ€Ð¼Ð¸Ð½Ð°Ñ‚Ð¾Ñ€Ñ‹
+http://pl.vbfcdn.net/videos/100917_06/100917_06_720p.m3u8
+#EXTINF:0,Ð§Ð°ÑÑ‚Ð½Ñ‹Ð¹ ÐŸÐ¾ÐºÐµÑ€
+http://pl.vbfcdn.net/videos/050917_07/050917_07_720p.m3u8
+#EXTINF:0,Ð ÑƒÑÑÐºÐ¸Ð¹ Ð˜Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ‚ - Ð£Ñ€Ð¾Ðº 2
+http://pl.vbfcdn.net/videos/050917_05/050917_05_720p.m3u8
+#EXTINF:0,Ð¨ÑƒÑ…ÐµÑ€ Ð² Ð¸Ð½Ñ‚ÐµÑ€Ð½Ð°Ñ‚Ðµ
+http://pl.vbfcdn.net/videos/260817_22/260817_22_720p.m3u8
+#EXTINF:0,Ð¨Ð»ÑŽÑ…Ð¸ ÐšÐ°Ñ€Ð¸Ð±Ð¾Ð²
+http://pl.vbfcdn.net/videos/130917_19/130917_19_720p.m3u8
+#EXTINF:0,ÐŸÐ¾Ñ€Ð½Ð¾ Ð’Ð¾Ð¹Ð½Ñ‹: Ð­Ð¿Ð¸Ð·Ð¾Ð´ 1
+http://pl.vbfcdn.net/videos/280817_14/280817_14_720p.m3u8
+#EXTINF:0,9 1/2 ÐÐµÐ´ÐµÐ»ÑŒ
+http://pl.vbfcdn.net/videos/260817_21/260817_21_720p.m3u8
+#EXTINF:0,ÐœÐ¾Ð»Ð¾Ð´Ñ‹Ðµ Ð»ÑŽÐ±ÑÑ‚ Ð¿Ð¾Ð³Ð¾Ñ€ÑÑ‡ÐµÐµ
+http://pl.vbfcdn.net/videos/190817_02/190817_02_720p.m3u8
+#EXTINF:0,ÐšÑƒÐ»ÑŒÐ¼Ð¸Ð½Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ ÐœÐ¾Ð¼ÐµÐ½Ñ‚ ÐÐ¿Ð¾ÐºÐ°Ð»Ð¸Ð¿ÑÐ¸ÑÐ° 1
+http://pl.vbfcdn.net/videos/100917_05/100917_05_720p.m3u8
+#EXTINF:0,Ð‘Ñ€Ñ‹Ð·Ð³Ð°ÑŽÑ‰Ð¸Ðµ ÐºÐ¾Ð»ÑŒÑ‚Ñ‹
+http://pl.vbfcdn.net/videos/270817_15/270817_15_720p.m3u8
+https://myttk.neocities.org/c1.txt
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_8
+http://185.37.168.126:7284/udp/239.255.5.7:15014
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_7
+http://185.37.168.126:7284/udp/239.255.5.7:15013
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_6
+http://185.37.168.126:7284/udp/239.255.5.7:15012
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_5
+http://185.37.168.126:7284/udp/239.255.5.7:15011
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_4
+http://185.37.168.126:7284/udp/239.255.5.7:15006
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_3 https://iptv.zone
+http://185.37.168.126:7284/udp/239.255.5.7:15005
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_2
+http://185.37.168.126:7284/udp/239.255.5.7:15004
+#EXTINF:0 tvg-id="ext" group-title="Channels",erotic_1
+http://185.37.168.126:7284/udp/239.255.5.7:15003
+#EXTINF:0 tvg-id="HustlerTV.us" group-title="Channels",Hustler TV
+http://185.37.168.126:7284/udp/239.255.5.4:15000
+
+#EXTINF:-1,SKY SPORTS 1
+http://31.204.150.12:8080/edge/10547/tracks-v1a1/index.m3u8?token=17.18.1386.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.9f45cdbaebd47b9efcbdb4ed93a4e792
+#EXTINF:-1,SKY SPORTS 1
+http://edge7.iptvnetwork.net/UK/4214sks1-enc18/playlist.m3u8
+#EXTINF:-1,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net:80/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,BAYER MUNIQUE TV
+http://klive-a.akamaihd.net:80/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,BAYER MUNIQUE TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,NBA TV
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
