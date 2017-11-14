@@ -86,7 +86,45 @@ rtmp://213.152.180.151:17247/sstream/0ZKRO5BudJ.stream
 rtmp://213.152.180.151:17247/sstream/vRxeLE9PLv.stream
 USA
 rtmp://213.152.180.151:17247/sstream/0ULjqKLu6t.stream
-
+rtmp://213.152.180.151:17247/sstream/1E8EJUkeNI.stream
+sportstv1
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+sportstv2
+rtmp://213.152.180.151:17247/sstream/0qZjb9kndn.stream
+sportstv4
+rtmp://213.152.180.151:17247/sstream/0tkVGgd2jl.stream
+espn
+rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream
+pfc
+rtmp://213.152.180.151:17247/sstream/1bdlLe7dro.stream
+skysportsnews
+rtmp://213.152.180.151:17247/sstream/NftJgVmkgQ.stream
+#EXTINF:-1,BT SPORTS ESPN
+  rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream
+  #EXTINF:-1,NBA TV
+  rtmp://213.152.180.151:17247/sstream/0f5bZcQBIw.stream
+  #EXTINF:-1,NFL TV
+  rtmp://213.152.180.151:17247/sstream/6fUnIBKxvH.stream
+  #EXTINF:-1,GOLF CHANNEL
+  rtmp://213.152.180.151:17247/sstream/1sEvfAIhws.stream
+  #EXTINF:-1,SKY SPORTS F1
+  rtmp://213.152.180.151:17247/sstream/1E8EJUkeNI.stream
+  #EXTINF:-1,Gol TV
+    http://206.83.228.115:8888/http/004
+    #EXTINF:-1,Morfi Tele
+    http://206.83.228.114:10088/ipvt_003
+    #EXTINF:-1,TYC
+    http://206.83.228.114:10088/ipvt_002
+    #EXTINF:-1,TG Sports
+    http://206.83.228.115:8888/http/001
+    #EXTINF:-1,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
+  
+  http://flus.ddns.net:8081/eurocinema/index.m3u8
 http://85.132.71.6/turk/cbc_sport/index.m3u8
 #EXTINF:-1 group-title="Internacional" ,Czech: CZ-SPORT1
 http://5.63.149.252:5000/live/299/299.m3u8
