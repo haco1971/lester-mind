@@ -75,7 +75,8 @@ http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes",Sport TV 2
 http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
-
+rtmp://213.152.180.151:17247/sstream/nnXWDzhPK1.stream
+rtmp://213.152.180.151:17247/sstream/9DOXhIxxsw.stream
 NBA
 rtmp://213.152.180.151:17247/sstream/0f5bZcQBIw.stream
 rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream
