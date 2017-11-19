@@ -639,6 +639,56 @@ http://109.236.91.150:8080/Srb:Hbo3HD/mpegts
 http://109.236.91.150:8080/Srb:Cinemax2HD/mpegts
 #EXTINF:0,Channel 5
 http://109.236.91.150:8080/Srb:Cinemax1HD/mpegts
+l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
+
+# Global settings:
+http 80;
+http 8080;
+rtsp 554;
+rtmp 1935;
+pulsedb /var/lib/flussonic;
+session_log /var/lib/flussonic;
+edit_auth haco1971 eltholth;
+
+# DVRs:
+
+# Remote sources:
+
+# Ingest streams:
+stream espn {
+  url rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream;
+}
+stream xxl {
+  url tshttp://5.2.45.26:81/udp/239.254.2.232:1234;
+}
+stream Private {
+  url tshttp://5.2.45.26:81/udp/239.254.2.231:1234;
+}
+stream arenasport {
+  url rtmp://139.59.120.168/live/arenasport1.stream;
+}
+
+# Dynamic rewrites:
+
+# Publish locations:
+live negm {
+}
+live 1 {
+}
+
+# Disk file caches:
+
+# VOD locations:
+file vod {
+  path priv;
+}
+
+# Plugins:
+plugin iptv {
+  database sqlite:///opt/flussonic/priv/iptv.db;
+}
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Beauty painting (2017)
 http://kino-v.online/kino/Kartina_krasoty.1080.mp4/index.m3u8
