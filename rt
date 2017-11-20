@@ -17,3 +17,5 @@ apt-get -y install flussonic
 apt-get install flussonic flussonic-ffmpeg flussonic-python
 /etc/init.d/flussonic start
 /etc/init.d/flussonic stop
+https://www.youtube.com/watch?v=V7gCulhT3uQ
+abosameh751971@gmail.com
