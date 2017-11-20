@@ -8,3 +8,12 @@ rtmp://213.152.180.151:17247/sstream/0tup2CkRWf.stream?FdZQL7MV4b.stream
 rtmp://213.152.180.151:17247/sstream/cGpSnxoaVF.stream
 rtmp://213.152.180.151:17247/sstream/0ZKRO5BudJ.stream?0PB7JgNLHx.stream
 rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream
+
+
+wget -q -O - http://debian.erlyvideo.org/binary/gpg.key | apt-key add -
+echo "deb http://debian.erlyvideo.org binary/" >> /etc/apt/sources.list
+apt-get update
+apt-get -y install flussonic
+apt-get install flussonic flussonic-ffmpeg flussonic-python
+/etc/init.d/flussonic start
+/etc/init.d/flussonic stop
