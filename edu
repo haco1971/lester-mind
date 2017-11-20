@@ -89,24 +89,34 @@ USA
 rtmp://213.152.180.151:17247/sstream/0ULjqKLu6t.stream
 rtmp://213.152.180.151:17247/sstream/1E8EJUkeNI.stream
 sportstv1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 sportstv2
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 rtmp://213.152.180.151:17247/sstream/0qZjb9kndn.stream
 sportstv4
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 rtmp://213.152.180.151:17247/sstream/0tkVGgd2jl.stream
 espn
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream
 pfc
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 rtmp://213.152.180.151:17247/sstream/1bdlLe7dro.stream
 skysportsnews
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 rtmp://213.152.180.151:17247/sstream/NftJgVmkgQ.stream
 #EXTINF:-1,BT SPORTS ESPN
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
   rtmp://213.152.180.151:17247/sstream/SYnWeoBryb.stream
   #EXTINF:-1,NBA TV
+  http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
   rtmp://213.152.180.151:17247/sstream/0f5bZcQBIw.stream
   #EXTINF:-1,NFL TV
+  http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
   rtmp://213.152.180.151:17247/sstream/6fUnIBKxvH.stream
   #EXTINF:-1,GOLF CHANNEL
+  http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
   rtmp://213.152.180.151:17247/sstream/1sEvfAIhws.stream
   #EXTINF:-1,SKY SPORTS F1
   rtmp://213.152.180.151:17247/sstream/1E8EJUkeNI.stream
