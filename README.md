@@ -648,7 +648,7 @@ rtsp 554;
 rtmp 1935;
 pulsedb /var/lib/flussonic;
 session_log /var/lib/flussonic;
-edit_auth haco1971 eltholth;
+
 
 # DVRs:
 
