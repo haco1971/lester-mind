@@ -123,3 +123,25 @@ http://156.67.242.147:19621
 http://93.158.220.163:2000/play/a01m 
 #EXTINF:-1,eir Sport 2
 http://93.158.220.163:2000/play/a01v 
+
+#EXTM3U
+#EXTINF:-1,Sesto Senso Tv
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/437.ts
+#EXTINF:-1,SCT HD
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/439.ts
+#EXTINF:-1,PINK O TV
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/433.ts
+#EXTINF:-1,EXOTICA TV
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/434.ts
+#EXTINF:-1,CentoXCento
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/435.ts
+#EXTINF:-1,EvilAngelTV
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/9049.ts
+#EXTINF:-1,PASSIONXXX
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/9048.ts
+#EXTINF:-1,TGirlstv
+http://italians-server.ddns.net:6969/live/DOMOTO/LJXdf3AQAi/1248.ts
+rtmp://80.211.154.228:1935/static/cobra
+http://80.211.154.228:8080/cobra/mpegts
+
+
